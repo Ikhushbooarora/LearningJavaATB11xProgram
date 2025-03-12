@@ -8,7 +8,7 @@ public class Lab002_Literals {
         System.out.println(age);
 
         final int girl_age =20;
-//                girl_age = 18; this is constant thats why it can not be changed.
+//                girl_age = 18; this is constant that's why it can not be changed.
                 System.out.println(girl_age);
 
     }
