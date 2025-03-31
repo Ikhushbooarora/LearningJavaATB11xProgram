@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task_01_incrementdecrement_operator {
+public class Task01_incrementdecrement_operator {
     public static void main(String[] args) {
         // package Tasks;
         //

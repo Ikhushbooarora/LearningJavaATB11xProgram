@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task2_CLI {
+public class Task02_CLI {
     public static void main(String[] args) {
         String Name = args[0];
         int age = Integer.parseInt(args[1]);

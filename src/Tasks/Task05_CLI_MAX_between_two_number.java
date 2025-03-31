@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task5_CLI_MAX_between_two_number {
+public class Task05_CLI_MAX_between_two_number {
     public static void main(String[] args) {
         int num1 = Integer.parseInt(args[0]);
         int num2 = Integer.parseInt(args[1]);
@@ -16,4 +16,7 @@ public class Task5_CLI_MAX_between_two_number {
 
 
     }
-}
+
+
+       }
+
